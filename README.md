@@ -6,5 +6,7 @@ https://support.esri.com/en-us/bug/a-function-barrier-does-not-honor-the-partial
 
 the output of the tool is a line geometry in project.defaultGeodatabase
 
+![output](./distancetrace.png)
+
 
 
