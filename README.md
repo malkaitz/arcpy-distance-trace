@@ -7,6 +7,7 @@ https://support.esri.com/en-us/bug/a-function-barrier-does-not-honor-the-partial
 the output of the tool is a line geometry in project.defaultGeodatabase
 
 <img src="/images/distancetrace.png" alt="trace" width="300">
+<img src="/images/dist2.png" alt="trace" width="300">
 
 
 
